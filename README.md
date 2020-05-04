@@ -23,5 +23,5 @@ Data analysis of 911 emergency call using Hadoop MapReduce
   ```
   ~/hadoop/bin/hadoop jar call911_result.jar mju.hadoop.call911.Call911 911.csv call911_result_2_fire Fire
   ```
-  <img width="500" alt="result1" src="https://user-images.githubusercontent.com/33407123/80941297-183bf600-8e1d-11ea-9c58-06f5ebe1d357.png">
+  <img width="500" alt="result1" src="https://user-images.githubusercontent.com/33407123/80941478-7ff24100-8e1d-11ea-8bb4-21992434fc12.png">
 </br></br>
